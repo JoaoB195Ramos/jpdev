@@ -1,6 +1,4 @@
 # jpdev
 myreadme
 .
-..
-...
-....
+
